@@ -13,4 +13,4 @@ Platforms.md is to discuss potential platforms to use for the site.
 
 Meetings.md is to propose and then record the results of any meetings about the #MagentoDiscuss concept. 
 
-
+Collaborators.md contains information on who has access to the repository and how to gain access to it. 
